@@ -9,7 +9,7 @@ overview:
 technology:
   language: Java
   framework: TestNG
-  java_version: 17
+  java_version : 17
 
 objective:
   - Understand Inheritance in Java
